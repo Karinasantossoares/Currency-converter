@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency-converter</string>
+    <string name="value_to_be_converted">Value in reais to be converted :</string>
+    <string name="dollar_converter">dollar converter</string>
+    <string name="convert_to_euro">convert to euro</string>
+    <string name="how_much_do_you_want_to_convert">How much do you want to convert?</string>
+    <string name="to_convert">To convert</string>
+</resources>
